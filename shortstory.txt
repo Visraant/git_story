@@ -1,1 +1,6 @@
-There once was a boy named Visraant. He became a coder. He made an app. The app was pretty good, but it also needed some work. Visraant talked to some friends, and they helped him out.
+1. There once was a boy named Visraant. 
+2. He became a coder. 
+3. He made an app. 
+4. The app was pretty good, but it also needed some work. 
+5. Visraant talked to some friends, and they helped him out.
+6. The app was now really good. Yay friends.
